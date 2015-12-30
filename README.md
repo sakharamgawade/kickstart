@@ -1,8 +1,17 @@
 # kickstart
 
-Hello World
+## Learning Markdown
+#### Demonstrating:
+- Headings
+- Lists
+- Images
+- Links
+- Code block
 
-- one
-- two
-- three
-- four
+##this is an image:
+![just an image](/images/example.png)
+
+
+##this is code block in java:
+
+
